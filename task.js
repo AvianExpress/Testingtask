@@ -61,3 +61,6 @@ class hamster
         }
 
     }
+    //Ещё проект оформлен как Npm-пакет
+    //npm i sgmktradebackend
+    //Тут нету функций типа module.return, но файл можно запускать и просто чеоез node, он будет в папке Node_modules\sgmktradebackend\
