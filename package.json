@@ -1,0 +1,26 @@
+{
+  "name": "sgmktradebackend",
+  "version": "1.0.0",
+  "description": "Sgmk test task",
+  "main": "task.js",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvianExpress/Testingtask.git"
+  },
+  "keywords": [
+    "sgmk"
+  ],
+  "author": "Gondusoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvianExpress/Testingtask/issues"
+  },
+  "homepage": "https://github.com/AvianExpress/Testingtask#readme"
+}
